@@ -17,7 +17,6 @@ void Wassertank::fuellen(int menge) {
 		füllstand = größe;
 	else
 		füllstand += menge;
-
 }
 
 int Wassertank::getFuelstand() {
