@@ -8,4 +8,4 @@ Wassertanks kennen dabei folgende Methoden:
 * __int getFuellstand()__ : liefert den aktuellen Fuellstand
 
 ## UML
-![alt text](https://github.com/kadimoezdemir/Hase-Igel-Spiel/blob/master/UML%20Dia.png)
+![alt text](https://github.com/kadimoezdemir/Wassertank/blob/master/Wassertank%20UML.png)
