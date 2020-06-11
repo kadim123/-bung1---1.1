@@ -1,2 +1,2 @@
-# -bung1---1.1
+# Wassertank
 Wassertank (Einfache Klasse, UML)
